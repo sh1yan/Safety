@@ -20,9 +20,9 @@ Safety_monitoring 工具，算是我使用java写的第一个安全监测工具�
 
 **使用截图**
 
-![1](E:\零时文件夹\Safety\img\1.png)
+![1](https://raw.githubusercontent.com/shiyan-520/Safety/master/img/1.png)
 
-![2](E:\零时文件夹\Safety\img\2.png)
+![2](https://raw.githubusercontent.com/shiyan-520/Safety/master/img/2.png)
 
 **使用方法**
 
