@@ -33,11 +33,11 @@ Safety_monitoring 工具，算是我使用java写的第一个安全监测工具�
         crontab -e
 建议默认使用任务检测计划    
         */5 * * * * java -jar /home/shiyan/Safety/Safety_monitoring.jar 2
-    	* */1 * * * java -jar /home/shiyan/Safety/Safety_monitoring.jar 3
-		每5分钟检测一下是否有恶意用户爆破，每1小时检测下是否有非本省用户登录成功
+        * */1 * * * java -jar /home/shiyan/Safety/Safety_monitoring.jar 3
+        每5分钟检测一下是否有恶意用户爆破，每1小时检测下是否有非本省用户登录成功
         
 根据需求添加任务计划
-		* */1 * * * java -jar /home/shiyan/Safety/Safety_monitoring.jar 4,6,7
+        * */1 * * * java -jar /home/shiyan/Safety/Safety_monitoring.jar 4,6,7
 
 ```
 
