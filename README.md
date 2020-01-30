@@ -18,6 +18,8 @@ Safety_monitoring 工具，算是我使用java写的第一个安全监测工具�
 
 发生异常情况，主要通过邮件进行告警通知，所以有一点需要注意的就是，个人外网主机25端口不能被屏蔽。
 
+注意：又更新了一版，因不可抗拒因素，导致无法开启25端口的可以使用 Safety_monitoring1.jar 版本的，该版本使用ssl的465端口进行发信。
+
 **使用截图**
 
 ![1](https://raw.githubusercontent.com/shiyan-520/Safety/master/img/1.png)
