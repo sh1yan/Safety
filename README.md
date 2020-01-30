@@ -60,14 +60,7 @@ recipientAddress = xxx@qq.com
 senderAccount = xxx@qq.com
 # 发件人账户密码
 senderPassword = xxxxxx
-# 用户认证方式
-userAuthClass = mail.smtp.auth
-userAuthParameter = true
-# 传输协议
-transportProtocolClass = mail.transport.protocol
-transportProtocolParameter = smtp
 # 发信人的服务器地址
-senderServerPathClass = mail.smtp.host
 senderServerPathParameter = smtp.qq.com
 ```
 
